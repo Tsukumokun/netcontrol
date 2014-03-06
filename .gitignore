@@ -4,8 +4,8 @@
 !**/bin/readme.md
 
 # SASS files
-*.sass-cache
-*.ruby-version
+.sass-cache/
+.ruby-version/
 **/bourbon/*
 !**/bourbon/README.md
 !**/bourbon/readme.md
@@ -80,7 +80,6 @@ $RECYCLE.BIN/
 .directory
 
 # Arc
-
 *.tar
 *.tar.*
 *.log
@@ -90,7 +89,6 @@ pkg/
 src/
 
 # Apple
-
 .DS_Store
 .AppleDouble
 .LSOverride
